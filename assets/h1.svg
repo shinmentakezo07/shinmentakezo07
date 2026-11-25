@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
 <style>@keyframes ink{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}</style>
-<rect width="1200" height="90" fill="#0b0b0d"/>
-<text x="40" y="66" style="font:900 56px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">壱</text>
-<text x="120" y="60" style="font:900 38px Impact,sans-serif;letter-spacing:8px;fill:#f1e9d6">THE BOUNTY BOARD</text>
-<path d="M700 45 H1160" stroke="#f1e9d6" stroke-width="3" stroke-dasharray="1200" style="animation:ink 2s ease-out both"/>
-<circle cx="1160" cy="45" r="7" fill="#e63946"/></svg>
+<rect width="1200" height="90" fill="#0b0b0d"/><text x="40" y="66" style="font:900 56px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">壱</text>
+<text x="120" y="60" style="font:900 38px Impact,'Bebas Neue','Arial Black',sans-serif;letter-spacing:8px;fill:#f1e9d6">THE MAIN QUEST</text>
+<path d="M720 45 H1160" stroke="#f1e9d6" stroke-width="3" stroke-dasharray="1200" style="animation:ink 2s ease-out both"/><circle cx="1160" cy="45" r="7" fill="#e63946"/></svg>

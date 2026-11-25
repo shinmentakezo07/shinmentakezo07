@@ -4,13 +4,17 @@
 
 <img src="./assets/sheet.svg" width="100%" alt="Character sheet"/>
 
-<img src="./assets/h1.svg" width="100%" alt="The Bounty Board"/>
+<img src="./assets/h1.svg" width="100%" alt="The Main Quest"/>
 
-<a href="https://github.com/shinmentakezo07/opencode2api"><img src="./assets/opencode2api.svg" width="24%"/></a><a href="https://github.com/shinmentakezo07/DeepAICode2API"><img src="./assets/DeepAICode2API.svg" width="24%"/></a><a href="https://github.com/shinmentakezo07/magpie-aws-quick"><img src="./assets/magpie-aws-quick.svg" width="24%"/></a><a href="https://github.com/shinmentakezo07/workbuddy2api-hub"><img src="./assets/workbuddy2api-hub.svg" width="24%"/></a>
+<a href="https://github.com/shinmentakezo07/wiwia"><img src="./assets/wiwia.svg" width="100%" alt="wiwia — one gateway, every dialect, any provider"/></a>
+
+<img src="./assets/h3.svg" width="100%" alt="Training Record"/>
+
+<img src="./assets/battlelog.svg" width="100%" alt="Contribution stats"/>
 
 <img src="./assets/h2.svg" width="100%" alt="Weapons of Choice"/>
 
-<img src="./assets/hanko.svg" width="100%" alt="Go · Python · TypeScript · JavaScript · Rust · Docker · Linux · AI"/>
+<img src="./assets/hanko.svg" width="100%" alt="Tech stack"/>
 
 <img src="./assets/footer.svg" width="100%" alt="To be continued"/>
 

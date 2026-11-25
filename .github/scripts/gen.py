@@ -90,7 +90,7 @@ hero = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" view
   <text x="60" y="350" class="brush" style="paint-order:stroke;stroke:{PAPER};stroke-width:10;fill:{RED}">武蔵</text>
   <rect x="60" y="378" width="520" height="62" fill="{INK}"/>
   <text x="76" y="425" class="en" style="fill:{PAPER};font-size:46px">SHINMEN TAKEZO</text>
-  <text x="62" y="478" class="tag" style="fill:{INK};animation:fade .8s .6s both">// RONIN ENGINEER · FORGING AI GATEWAYS IN GO</text>
+  <text x="62" y="478" class="tag" style="fill:{INK};animation:fade .8s .6s both">// FULL STACK · BACKEND · AI / LLM ENGINEER</text>
   <!-- seal -->
   <g transform="translate(1090 430)"><g style="animation:stamp .7s .3s cubic-bezier(.3,1.6,.5,1) both">
     <rect x="-52" y="-52" width="104" height="104" rx="10" fill="none" stroke="{RED}" stroke-width="7" filter="url(#rough)"/>
@@ -134,10 +134,10 @@ sheet = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" vie
 <rect width="{W}" height="{H}" fill="{PAPER}"/>
 <rect x="6" y="6" width="500" height="{H-12}" fill="url(#ht)"/>
 <text x="40" y="70" class="h">参 · CHARACTER SHEET</text>
-<text x="40" y="110" class="lbl">CLASS ........ RONIN / BACKEND</text>
-<text x="40" y="140" class="lbl">STYLE ........ NITEN ICHI-RYU</text>
-<text x="40" y="170" class="lbl">WEAPON ....... GO + PYTHON</text>
-<text x="40" y="200" class="lbl">QUEST ........ ONE API TO RULE</text>
+<text x="40" y="110" class="lbl">ROLE ......... FULL STACK DEVELOPER</text>
+<text x="40" y="140" class="lbl">CORE ......... BACKEND ENGINEER</text>
+<text x="40" y="170" class="lbl">PATH ......... AI / LLM ENGINEER</text>
+<text x="40" y="200" class="lbl">STACK ........ TS · PYTHON · GO</text>
 <text x="40" y="230" class="lbl">STATUS ....... <tspan fill="{RED}">● TRAINING</tspan><tspan style="animation:blink 1s step-end infinite">_</tspan></text>
 {stat(40, 260, nrepos, "REPOS")}{stat(184, 260, stars, "STARS")}{stat(328, 260, len(langs), "BLADES")}
 <line x1="520" y1="20" x2="520" y2="{H-20}" stroke="{INK}" stroke-width="7"/>

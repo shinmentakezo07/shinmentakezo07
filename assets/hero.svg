@@ -44,7 +44,7 @@
   <text x="60" y="350" class="brush" style="paint-order:stroke;stroke:#f1e9d6;stroke-width:10;fill:#e63946">武蔵</text>
   <rect x="60" y="378" width="520" height="62" fill="#0b0b0d"/>
   <text x="76" y="425" class="en" style="fill:#f1e9d6;font-size:46px">SHINMEN TAKEZO</text>
-  <text x="62" y="478" class="tag" style="fill:#0b0b0d;animation:fade .8s .6s both">// RONIN ENGINEER · FORGING AI GATEWAYS IN GO</text>
+  <text x="62" y="478" class="tag" style="fill:#0b0b0d;animation:fade .8s .6s both">// FULL STACK · BACKEND · AI / LLM ENGINEER</text>
   <!-- seal -->
   <g transform="translate(1090 430)"><g style="animation:stamp .7s .3s cubic-bezier(.3,1.6,.5,1) both">
     <rect x="-52" y="-52" width="104" height="104" rx="10" fill="none" stroke="#e63946" stroke-width="7" filter="url(#rough)"/>

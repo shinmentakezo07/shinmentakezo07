@@ -15,10 +15,10 @@
 <rect width="1200" height="380" fill="#f1e9d6"/>
 <rect x="6" y="6" width="500" height="368" fill="url(#ht)"/>
 <text x="40" y="70" class="h">参 · CHARACTER SHEET</text>
-<text x="40" y="110" class="lbl">CLASS ........ RONIN / BACKEND</text>
-<text x="40" y="140" class="lbl">STYLE ........ NITEN ICHI-RYU</text>
-<text x="40" y="170" class="lbl">WEAPON ....... GO + PYTHON</text>
-<text x="40" y="200" class="lbl">QUEST ........ ONE API TO RULE</text>
+<text x="40" y="110" class="lbl">ROLE ......... FULL STACK DEVELOPER</text>
+<text x="40" y="140" class="lbl">CORE ......... BACKEND ENGINEER</text>
+<text x="40" y="170" class="lbl">PATH ......... AI / LLM ENGINEER</text>
+<text x="40" y="200" class="lbl">STACK ........ TS · PYTHON · GO</text>
 <text x="40" y="230" class="lbl">STATUS ....... <tspan fill="#e63946">● TRAINING</tspan><tspan style="animation:blink 1s step-end infinite">_</tspan></text>
 <g transform="translate(40 260)"><rect width="130" height="96" fill="#0b0b0d"/>
 <text x="65" y="56" text-anchor="middle" style="font:900 44px Impact,sans-serif;fill:#f1e9d6">31</text>

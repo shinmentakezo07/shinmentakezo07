@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+<defs><pattern id="ht" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<circle cx="4" cy="4" r="1.6" fill="#0b0b0d" opacity=".18"/></pattern>
+<filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".04" numOctaves="3" seed="4"/>
+<feDisplacementMap in="SourceGraphic" scale="6"/></filter>
+<filter id="paper"><feTurbulence baseFrequency=".9" numOctaves="2" seed="9"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .08 0"/>
+<feComposite in2="SourceGraphic" operator="in"/></filter></defs>
+<style>@keyframes stamp{0%{opacity:0;transform:scale(2.4) rotate(-40deg)}100%{opacity:1;transform:scale(1) rotate(var(--r))}}</style>
+<rect width="1200" height="200" fill="#f1e9d6"/>
+<g transform="translate(85 100)"><g style="animation:stamp .5s 0.00s cubic-bezier(.3,1.7,.5,1) both;--r:6deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">囲</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">GO</text>
+</g></g><g transform="translate(232 100)"><g style="animation:stamp .5s 0.15s cubic-bezier(.3,1.7,.5,1) both;--r:-4deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">蛇</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">PY</text>
+</g></g><g transform="translate(379 100)"><g style="animation:stamp .5s 0.30s cubic-bezier(.3,1.7,.5,1) both;--r:-4deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">型</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">TS</text>
+</g></g><g transform="translate(526 100)"><g style="animation:stamp .5s 0.45s cubic-bezier(.3,1.7,.5,1) both;--r:-8deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">脚</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">JS</text>
+</g></g><g transform="translate(673 100)"><g style="animation:stamp .5s 0.60s cubic-bezier(.3,1.7,.5,1) both;--r:6deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">錆</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">RS</text>
+</g></g><g transform="translate(820 100)"><g style="animation:stamp .5s 0.75s cubic-bezier(.3,1.7,.5,1) both;--r:9deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">鯨</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">DK</text>
+</g></g><g transform="translate(967 100)"><g style="animation:stamp .5s 0.90s cubic-bezier(.3,1.7,.5,1) both;--r:9deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">企</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">LX</text>
+</g></g><g transform="translate(1114 100)"><g style="animation:stamp .5s 1.05s cubic-bezier(.3,1.7,.5,1) both;--r:6deg">
+<circle r="52" fill="none" stroke="#e63946" stroke-width="6" filter="url(#rough)"/>
+<text y="10" text-anchor="middle" style="font:900 46px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#e63946">智</text>
+<text y="40" text-anchor="middle" style="font:800 13px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:2px">AI</text>
+</g></g>
+<rect x="6" y="6" width="1188" height="188" fill="none" stroke="#0b0b0d" stroke-width="7"/>
+</svg>

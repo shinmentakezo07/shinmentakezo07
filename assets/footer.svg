@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+<defs><pattern id="ht" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+<circle cx="4" cy="4" r="1.6" fill="#0b0b0d" opacity=".18"/></pattern>
+<filter id="rough"><feTurbulence type="fractalNoise" baseFrequency=".04" numOctaves="3" seed="4"/>
+<feDisplacementMap in="SourceGraphic" scale="6"/></filter>
+<filter id="paper"><feTurbulence baseFrequency=".9" numOctaves="2" seed="9"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .08 0"/>
+<feComposite in2="SourceGraphic" operator="in"/></filter></defs>
+<style>@keyframes t{0%,100%{opacity:.35}50%{opacity:1}}</style>
+<rect width="1200" height="160" fill="#0b0b0d"/>
+<rect width="1200" height="160" fill="url(#ht)" opacity=".5"/>
+<text x="600" y="72" text-anchor="middle" style="font:900 40px 'Yuji Syuku','Shippori Mincho','Noto Serif JP',serif;fill:#f1e9d6;letter-spacing:12px">千日の稽古を鍛とし</text>
+<text x="600" y="110" text-anchor="middle" style="font:700 15px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#d4a017;letter-spacing:5px">"A THOUSAND DAYS OF PRACTICE TO FORGE — TEN THOUSAND TO POLISH."</text>
+<text x="600" y="140" text-anchor="middle" style="font:700 12px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#e63946;letter-spacing:4px;animation:t 2.5s infinite">— TO BE CONTINUED —</text>
+</svg>

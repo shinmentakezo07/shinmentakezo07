@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c1121f"/><stop offset=".5" stop-color="#ff4d6d"/><stop offset="1" stop-color="#c1121f"/></linearGradient></defs>
+<style>
+@keyframes sh{0%{transform:translateX(-420px)}60%,100%{transform:translateX(420px)}}
+@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.t{font:700 21px 'Segoe UI',sans-serif;fill:#fff;animation:up .6s both}
+.d{font:14px 'Segoe UI',sans-serif;fill:#c9d1d9;animation:up .6s .3s both}
+.s{font:12px 'Fira Code',monospace;fill:#8b949e;animation:up .6s .5s both}
+</style>
+<rect x="1" y="1" width="398" height="148" rx="12" fill="#0d1117" stroke="url(#g)" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="148" rx="3" fill="#c1121f"/>
+<text x="24" y="40" class="t">⚔ workbuddy2api-hub</text>
+<text x="24" y="72" class="d">WorkBuddy multi-account hub</text>
+<text x="24" y="96" class="s">Codex · Claude Code · OpenAI clients</text>
+<circle cx="30" cy="124" r="6" fill="#3776AB"/><text x="44" y="129" class="s">Python</text>
+<text x="376" y="129" class="s" text-anchor="end">view →</text>
+<rect y="0" width="60" height="150" fill="#fff" opacity=".06" transform="skewX(-20)" style="animation:sh 4s ease-in-out infinite"/>
+</svg>

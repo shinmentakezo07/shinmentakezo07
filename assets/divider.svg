@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30">
+<style>@keyframes d{0%{stroke-dashoffset:1200}100%{stroke-dashoffset:0}}</style>
+<line x1="0" y1="15" x2="1200" y2="15" stroke="#c1121f" stroke-width="2" stroke-dasharray="1200" style="animation:d 2.5s ease-out both"/>
+<text x="600" y="21" text-anchor="middle" font-size="18" fill="#ff4d6d">✦ 刀 ✦</text></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="378" viewBox="0 0 800 378">
+<style>
+text{font:15px 'Fira Code',Consolas,monospace}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+@keyframes border{to{stroke-dashoffset:-200}}
+</style>
+<rect x="1" y="1" width="798" height="376" rx="14" fill="#0d1117"/>
+<rect x="1" y="1" width="798" height="376" rx="14" fill="none" stroke="#c1121f" stroke-width="2" stroke-dasharray="60 40" style="animation:border 4s linear infinite"/>
+<circle cx="28" cy="26" r="6" fill="#ff5f56"/><circle cx="48" cy="26" r="6" fill="#ffbd2e"/><circle cx="68" cy="26" r="6" fill="#27c93f"/>
+<text x="400" y="31" fill="#6e7681" text-anchor="middle">takezo@dojo: ~</text>
+<g style="animation:in .4s 0.5s both"><text x="28" y="78" fill="#ff4d6d">$</text><text x="50" y="78" fill="#7ee787">whoami</text></g>
+<g style="animation:in .4s 1.2s both"><text x="28" y="108" fill="#6e7681">></text><text x="50" y="108" fill="#e6edf3">shinmen takezo — ronin developer</text></g>
+<g style="animation:in .4s 1.9s both"><text x="28" y="138" fill="#ff4d6d">$</text><text x="50" y="138" fill="#7ee787">cat dojo.yaml</text></g>
+<g style="animation:in .4s 2.6s both"><text x="28" y="168" fill="#6e7681">></text><text x="50" y="168" fill="#e6edf3">blade:     Go</text></g>
+<g style="animation:in .4s 3.3s both"><text x="28" y="198" fill="#6e7681">></text><text x="50" y="198" fill="#e6edf3">offhand:   Python, TypeScript</text></g>
+<g style="animation:in .4s 4.0s both"><text x="28" y="228" fill="#6e7681">></text><text x="50" y="228" fill="#e6edf3">forging:   OpenAI/Anthropic-compatible gateways</text></g>
+<g style="animation:in .4s 4.7s both"><text x="28" y="258" fill="#6e7681">></text><text x="50" y="258" fill="#e6edf3">skills:    key pooling · routing · streaming · WebUIs</text></g>
+<g style="animation:in .4s 5.4s both"><text x="28" y="288" fill="#ff4d6d">$</text><text x="50" y="288" fill="#7ee787">./train --forever</text></g>
+<g style="animation:in .4s 6.1s both"><text x="28" y="318" fill="#6e7681">></text><text x="50" y="318" fill="#ff4d6d">⚔  one stroke, one commit.</text></g>
+<rect x="28" y="334" width="10" height="18" fill="#ff4d6d" style="animation:in .1s 6.8s both,blink 1s step-end infinite"/>
+</svg>
